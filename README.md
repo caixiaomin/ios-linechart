@@ -1,4 +1,3 @@
-test git
 # ios-linechart
 Interactive linecharts for the simplicity-loving iOS developer.
 
